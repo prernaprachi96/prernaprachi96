@@ -2,7 +2,7 @@
   <h1>PRERNA PRACHI</h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=AI%2FML+Inspire+Scholar;Research+Intern+@+DRDO;Full-Stack+Architect;Building+Security-First+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=AI%2FML+Student+@VIT;Research+Intern+@+DRDO;Full-Stack+Architect;Building+Security-First+Systems" alt="Typing SVG" />
   </p>
 
   <p align="center">
