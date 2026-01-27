@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=0077B5&center=true&vCenter=true&width=600&height=100&lines=PRERNA+PRACHI" alt="Name" />
+  <h1>PRERNA PRACHI</h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Research+Intern+@+DRDO;Full-Stack+Architect;Building+Security-First+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Research+Intern+@+DRDO;Full-Stack+Architect;Building+Security-First+Systems" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -15,7 +15,7 @@
 ---
 
 ### 🛡️ Engineering Focus
-My work centers on the intersection of **System Reliability** and **Intelligent Automation**. From optimizing mission-critical telemetry at **DRDO** to engineering unified cross-platform backends, I build software that maintains integrity under real-world stress.
+I specialize in the intersection of **System Reliability** and **Intelligent Automation**. My work centers on building software that maintains integrity under real-world stress, from mission-critical telemetry at **DRDO** to unified cross-platform architectures.
 
 - 🏗️ **Core Interest:** Scalable Infrastructure & Security-first Architectures.
 - 🧪 **Research:** Predictive Analytics and Generative AI detection models.
@@ -24,9 +24,26 @@ My work centers on the intersection of **System Reliability** and **Intelligent 
 
 ---
 
-### 💻 Technical Stack
+### 🚀 Technical Deep-Dive (Selected Projects)
 
-<div align="center">
+#### 🛰️ **Space-Track Telemetry Pipeline (DRDO)**
+* **The Problem:** High-velocity data from the Space-Track API required real-time processing to assess satellite collision risks.
+* **The Solution:** Architected a scalable Python pipeline that integrated **Orbital Mechanics** with **XGBoost and Regression models**.
+* **The Impact:** Optimized data parsing and logic flows, reducing system processing latency by **20%** and delivering a mission-critical risk assessment subsystem for Space Situational Awareness (SSA).
+
+#### 📱 **Hybrid Equipment Visualizer (Patent-Track Research)**
+* **The Problem:** Industrial sensors require data monitoring across both web and low-latency desktop environments simultaneously.
+* **The Solution:** Engineered a **Unified Django Backend** serving a single-source-of-truth API to both a **React (Web)** and **PyQt5 (Desktop)** frontend.
+* **The Impact:** Ensured 100% logic parity across platforms. Evaluated compute requirements for smart sensing in resource-constrained environments, targeting sub-50ms latency.
+
+#### 🔍 **Synthetic Image Detector (Adversarial Security)**
+* **The Problem:** Increasing sophistication of generative models threatens digital asset integrity and identity verification.
+* **The Solution:** Designed a **CNN-based detection framework** to identify subtle generative artifacts and frequency-domain anomalies in digital media.
+* **The Impact:** Achieved **94% accuracy** in identifying deepfakes, providing a robust tool for verifying digital authenticity in secure environments.
+
+---
+
+### 💻 Technical Stack
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
@@ -35,21 +52,6 @@ My work centers on the intersection of **System Reliability** and **Intelligent 
 | **Frontend** | `React.js` `Flutter` `PyQt5` `TailwindCSS` |
 | **Infrastructure** | `AWS (EC2/S3)` `Azure` `Git/GitHub` `REST APIs` |
 | **Intelligence** | `CNNs` `TensorFlow` `PyTorch` `OpenCV` `XGBoost` |
-
-</div>
-
-
-
----
-
-### 🚀 Key Projects
-
-* **🛰️ DRDO Space-Track Pipeline**
-    * *Mission-critical trajectory prediction.* Optimized data ingestion from high-velocity APIs, resulting in a 20% latency reduction for real-time risk assessment.
-* **📱 Hybrid Visualizer**
-    * *Unified System Design.* Architected a single-source-of-truth Django API capable of serving both **React (Web)** and **PyQt5 (Desktop)** clients simultaneously.
-* **🔍 Synthetic Image Detector**
-    * *Security Verification.* Developed a CNN-based framework to identify generative artifacts with 94% accuracy, targeting digital asset forgery.
 
 ---
 
