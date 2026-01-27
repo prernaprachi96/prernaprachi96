@@ -1,24 +1,92 @@
-# 💫 About Me:
-Computer Engineering @ VIT | Research @ DRDO <br><br>Core Stack<br>Languages: Python, C++, Java, JavaScript, SQL.<br><br>Backend: Node.js, Django REST Framework, Linux Networking.<br><br>Frontend: React.js, HTML5/CSS3, PyQt5.<br><br>Cloud/DevOps: AWS (EC2, S3), Azure Cloud, Git/GitHub.<br><br>AI/ML: CNNs, Generative AI Detection, OpenCV.<br><br>Key Projects<br>DRDO Space-Track Pipeline: Real-time data engine for orbital collision risk (Python/XGBoost).<br><br>Hybrid Visualizer: Unified Django API serving React (Web) and PyQt5 (Desktop).<br><br>Synthetic Image Detector: CNN-based system for deepfake detection (94% accuracy).
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prernaprachi96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prerna-prachi-b06332263) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/prerna prachi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/RudeNegotiation1024) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Prerna Prachi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prachiprerna1@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prernaprachi96&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prernaprachi96&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prernaprachi96&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prernaprachi96&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Prerna%20Prachi&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Computer+Engineering+@+VIT;Research+Intern+@+DRDO;Full-Stack+%26+AI+Engineer;Building+Security-First+Systems" alt="Typing SVG" />
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prernaprachi96&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+I am a **Systems-focused Developer** specializing in high-integrity infrastructure and AI-driven security. From architecting real-time telemetry pipelines at **DRDO** to engineering hybrid cross-platform architectures, I build for scale and reliability.
+
+- 🔭 I’m currently working on **Hybrid Cross-Platform Visualizers**
+- 🛡️ Focus: **System Security & Generative AI Detection**
+- 🎓 Pre-final year @ **VIT (8.85 CGPA)**
+- ⚡ Fun fact: I treat "Zero-Failure" as a requirement, not a goal.
+
+---
+
+### 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="250"><strong>Languages</strong></td>
+    <td align="center" width="250"><strong>Frontend</strong></td>
+    <td align="center" width="250"><strong>Backend & DB</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,cpp,java,js,c" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,figma" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,django,mongodb,mysql,sqlite" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud & DevOps</strong></td>
+    <td align="center"><strong>AI / ML</strong></td>
+    <td align="center"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,git" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,anaconda,postman,latex" />
+    </td>
+  </tr>
+</table>
+
+
+
+---
+
+### 🚀 Key Projects
+
+- **🛰️ DRDO Space-Track Pipeline** | Real-time data engine for orbital collision risk (Python/XGBoost).
+- **📱 Hybrid Visualizer** | Unified Django API serving React (Web) and PyQt5 (Desktop) clients.
+- **🔍 Synthetic Image Detector** | CNN-based system for deepfake detection (94% accuracy).
+
+---
+
+### 📊 Performance Metrics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prernaprachi96&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Prerna's GitHub Stats" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernaprachi96&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prernaprachi96&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/prerna-prachi-b06332263"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:prachiprerna1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/prernaprachi96"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=prernaprachi96&icon=5&color=0" alt="Visitor Count" />
+</p>
