@@ -2,6 +2,10 @@
   <h1>PRERNA PRACHI</h1>
   
   <p align="center">
+    <i>"The best way to predict the future is to architect it." — Alan Kay</i>
+  </p>
+  
+  <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=AI%2FML+Student+@VIT;Research+Intern+@+DRDO;Full-Stack+Architect;Building+Security-First+Systems" alt="Typing SVG" />
   </p>
 
@@ -45,6 +49,8 @@ I am an **AI/ML Inspire Student** driven by the intersection of **System Reliabi
 
 ### 💻 Technical Stack
 
+
+
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **Intelligence** | `CNNs` `TensorFlow` `PyTorch` `OpenCV` `XGBoost` |
@@ -65,5 +71,8 @@ I am an **AI/ML Inspire Student** driven by the intersection of **System Reliabi
 ---
 
 <div align="center">
+  <blockquote>
+    "Software is a great combination between artistry and engineering." — Bill Gates
+  </blockquote>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&text_color=0077B5" />
 </div>
