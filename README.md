@@ -2,7 +2,7 @@
   <h1>PRERNA PRACHI</h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Research+Intern+@+DRDO;Full-Stack+Architect;Building+Security-First+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=AI%2FML+Inspire+Scholar;Research+Intern+@+DRDO;Full-Stack+Architect;Building+Security-First+Systems" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -15,12 +15,12 @@
 ---
 
 ### 🛡️ Engineering Focus
-I specialize in the intersection of **System Reliability** and **Intelligent Automation**. My work centers on building software that maintains integrity under real-world stress, from mission-critical telemetry at **DRDO** to unified cross-platform architectures.
+I am an **AI/ML Inspire Student** driven by the intersection of **System Reliability** and **Intelligent Automation**. My work centers on building software that maintains integrity under real-world stress, from mission-critical telemetry at **DRDO** to predictive models that safeguard digital assets.
 
+- 🧠 **AI/ML Passion:** Deep-diving into Neural Networks and Adversarial ML to solve real-world security gaps.
 - 🏗️ **Core Interest:** Scalable Infrastructure & Security-first Architectures.
 - 🧪 **Research:** Predictive Analytics and Generative AI detection models.
 - 🎓 **Education:** Pre-final year @ VIT (**8.85 CGPA**).
-- 🛠️ **Mantra:** If it isn't documented and tested, it doesn't exist.
 
 ---
 
@@ -47,11 +47,11 @@ I specialize in the intersection of **System Reliability** and **Intelligent Aut
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
+| **Intelligence** | `CNNs` `TensorFlow` `PyTorch` `OpenCV` `XGBoost` |
 | **Languages** | `Python` `C++` `Java` `JavaScript` `SQL` `Shell` |
 | **Backend** | `Node.js` `Django REST` `Linux Networking` `MongoDB` `MySQL` |
 | **Frontend** | `React.js` `Flutter` `PyQt5` `TailwindCSS` |
 | **Infrastructure** | `AWS (EC2/S3)` `Azure` `Git/GitHub` `REST APIs` |
-| **Intelligence** | `CNNs` `TensorFlow` `PyTorch` `OpenCV` `XGBoost` |
 
 ---
 
