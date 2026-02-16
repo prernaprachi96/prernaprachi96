@@ -61,15 +61,6 @@ I am an **AI/ML Inspire Student** driven by the intersection of **System Reliabi
 
 ---
 
-### 📊 Performance & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prernaprachi96&show_icons=true&theme=nord&rank_icon=github&title_color=0077B5&icon_color=0077B5&text_color=555555" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernaprachi96&layout=compact&theme=nord&title_color=0077B5&text_color=555555" height="180px"/>
-</p>
-
----
-
 <div align="center">
   <blockquote>
     "Software is a great combination between artistry and engineering." — Bill Gates
