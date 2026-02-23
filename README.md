@@ -33,7 +33,6 @@ I am an **AI/ML Inspire Student** driven by the intersection of **System Reliabi
 #### 🛰️ **Space-Track Telemetry Pipeline (DRDO)**
 * **The Problem:** High-velocity data from the Space-Track API required real-time processing to assess satellite collision risks.
 * **The Solution:** Architected a scalable Python pipeline that integrated **Orbital Mechanics** with **XGBoost and Regression models**.
-* **The Impact:** Optimized data parsing and logic flows, reducing system processing latency by **20%** and delivering a mission-critical risk assessment subsystem for Space Situational Awareness (SSA).
 
 ---
 
@@ -43,7 +42,7 @@ I am an **AI/ML Inspire Student** driven by the intersection of **System Reliabi
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **Intelligence** | `CNNs` `TensorFlow` `PyTorch` `OpenCV` `XGBoost` |
-| **Languages** | `Python` `C++` `Java` `JavaScript` `SQL` `Shell` |
+| **Languages** | `Python` `C++` `Java` `JavaScript` `SQL`  |
 | **Backend** | `Node.js` `Django REST` `Linux Networking` `MongoDB` `MySQL` |
 | **Frontend** | `React.js` `Flutter` `PyQt5` `TailwindCSS` |
 | **Infrastructure** | `AWS (EC2/S3)` `Azure` `Git/GitHub` `REST APIs` |
