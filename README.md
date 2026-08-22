@@ -19,9 +19,9 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE (AI & ML) @ VIT Bhopal
-- 🛰️ Research Intern @ DRDO
-- 🤖 Interested in AI, Full Stack & System Design
-- 🚀 Currently building Multi-Agent RAG applications
+- Research Intern @ DRDO
+- Interested in AI, Full Stack & System Design
+- Currently building Multi-Agent RAG applications
 
 ---
 
@@ -39,7 +39,6 @@
 
 ## 🚀 Featured Projects
 
-- 🛰 Telescope Imagery Anomaly Detector
 - 🛡 AI Generated Image Detection
 - 📈 AI Portfolio Investment Simulator
 - 🤖 Multi-Agent RAG (In Progress)
